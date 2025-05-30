@@ -56,12 +56,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AshwinSelvaraj-19&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-## 📊 Contributions:
-> 🔥 **61 Contributions in the last year** — we're just getting started.  
-> 📅 Growing every month. Building projects that matter.
-
-[![](https://activity-graph.herokuapp.com/graph?username=AshwinSelvaraj-19&theme=github-dark&hide_border=true)](https://github.com/AshwinSelvaraj-19)
 ---
 
 ## 🏆 GitHub Trophies:
