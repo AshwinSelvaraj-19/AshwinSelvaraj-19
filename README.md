@@ -58,6 +58,11 @@
 
 ---
 
+### 📊 Contribution Graph
+![Ashwin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwinSelvaraj-19&theme=react-dark&area=true&hide_border=true)
+
+---
+
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=AshwinSelvaraj-19&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
