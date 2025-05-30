@@ -1,5 +1,5 @@
-# 💫 About Me:
-🚀 Hey there! I'm **Ashwin Selvaraj** — a passionate BCA student at PSG College of Arts and Science, on a mission to build the next-gen tech that actually solves real-world problems.  
+<h1 align="center">Hey 👋, I'm Ashwin Selvaraj</h1>
+<h3 align="center">🚀 BCA Student | Full-Stack Dev | Building real-world tech 🔧</h3> 
   
 💡 I love coding systems that matter – from smart parking to AI-based assistants. Currently diving deep into **Backend Development**, **AI**, and cloud tools like **Supabase** & **Flask**.  
   
