@@ -11,6 +11,12 @@
 
 ---
 
+## 👨‍💻 Freelance Developer | Passionate about building full-stack & AI-driven solutions
+
+🔭 I’m currently working as a **freelancer** — building websites, web apps, and automations using Python, Flask, Supabase, and more.
+
+📬 DM me on LinkedIn or drop a mail for collabs, freelance gigs, or internships!
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AXDXcBSV) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin_444_) 
