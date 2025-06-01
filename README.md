@@ -22,7 +22,7 @@
 
 ## 🏅 Achievements & Certifications
 - 🧠 **NPTEL Certified** – Data Structures using Python  
-- 🎨 **Graphic Designing Certified** – CorelDraw , Photoshop, Canva
+- 🎨 **Graphic Designing Certified** – CorelDraw , Canva
 - 💻 **Built 5+ Full-Stack Apps** – Real-world users, real feedback, real impact  
 - 🛠 **Personal Projects:**
   - NAT Parking – Backend + Supabase CRUD
