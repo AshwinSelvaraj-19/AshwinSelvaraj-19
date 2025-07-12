@@ -34,8 +34,7 @@
   - NAT Parking – Backend + Supabase CRUD
   - Emergency Route Optimizer – Google Maps + Flask
   - Scholarship Finder – AI-powered guidance system
-  - Close Token System – Real-time vehicle checkout logic  
-
+  - Ai chatbot-open source key made chatbot with modern ui
 ---
 
 ## 💻 Tech Stack:
