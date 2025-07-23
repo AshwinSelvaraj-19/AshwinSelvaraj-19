@@ -78,7 +78,6 @@
 - 🧠 Build and host a full AI chatbot assistant  
 - 🌍 Deploy a full-stack SaaS product  
 - 📲 Learn DevOps + CI/CD basics  
-- 📈 Mentor juniors and contribute to open-source  
 - 🎯 Land a backend dev internship  
 
 ---
