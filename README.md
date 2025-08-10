@@ -34,7 +34,7 @@
   - NAT Parking – Backend + Supabase CRUD
   - Emergency Route Optimizer – Google Maps + Flask
   - Scholarship Finder – AI-powered guidance system
-  - Ai chatbot-open source key(OPEN ROUTER) made chatbot with modern ui
+  - Ai chatbot-open source key(OPEN ROUTER) made chatbot with modern ui/ux
 ---
 
 ## 💻 Tech Stack:
