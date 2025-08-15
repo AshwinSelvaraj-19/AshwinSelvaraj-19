@@ -20,7 +20,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1301039254641709077) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin_444_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinselvaraj-19-linkdin/)
-](https://www.linkedin.com/in/ashwinselvaraj-19-linkdin/)[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_Ashwin_19) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_Ashwin_19) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinselvaraj19@gmail.com) 
 
 ---
