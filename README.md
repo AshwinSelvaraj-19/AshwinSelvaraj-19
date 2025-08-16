@@ -1,4 +1,4 @@
- <h1 align="center">Hey 👋, I'm Ashwin Selvaraj</h1>
+<h1 align="center">Hey 👋, I'm Ashwin Selvaraj</h1>
 <h3 align="center">🚀 BCA Student | Full-Stack Dev | Building real-world tech 🔧</h3> 
   
 💡 I love coding systems that matter – from smart parking to AI-based assistants. Currently diving deep into **Backend Development**, **AI**, and cloud tools like **Supabase** 
@@ -33,7 +33,7 @@
   - NAT Parking – Backend + Supabase CRUD
   - Emergency Route Optimizer – Google Maps + Flask
   - Scholarship Finder – AI-powered guidance system
-  - Ai chatbot-open source key(OPEN ROUTER) made chatbot with modern ui/ux
+  - Ai chatbot-open source key(OPEN ROUTER) made chatbot with Modern Ui/Ux.
 ---
 
 ## 💻 Tech Stack:
