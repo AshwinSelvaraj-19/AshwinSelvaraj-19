@@ -16,6 +16,8 @@
 
 📬 DM me on LinkedIn or drop a mail for collabs, freelance gigs, or internships!
 
+<img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" />
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1301039254641709077) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin_444_) 
