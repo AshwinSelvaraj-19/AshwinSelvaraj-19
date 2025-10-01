@@ -16,7 +16,11 @@
 
 📬 DM me on LinkedIn or drop a mail for collabs, freelance gigs, or internships!
 
+
+
+### 📊 Contribution Graph
 <img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" />
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1301039254641709077) 
@@ -57,11 +61,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AshwinSelvaraj-19&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-### 📊 Contribution Graph
-![Ashwin's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AshwinSelvaraj-19&theme=react-dark&area=true&hide_border=true)
 
 ---
 
