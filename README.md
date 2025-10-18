@@ -81,7 +81,7 @@
 ## ✨ Fun Facts
 - 🎮 Gamer mind = systems thinker  
 - ☕ I turn caffeine into Supabase queries  
-- 🎨 UI/UX isn’t just design – it's *pixel storytelling*  
+- 🎨 UI/UX isn’t just design – it's *pixel storytelling *  
 - 🤖 Dream product: My own AI agent that helps me code, learn, and debug like a bro...
 
 ---
