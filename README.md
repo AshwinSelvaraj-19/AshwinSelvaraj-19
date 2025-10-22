@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ashwin Selvaraj</h1>
+<h1 align="center">Hey 👋, I'm Ashwin Selvaraj</h1>   
 <h3 align="center">🚀 BCA Student | Full-Stack Dev | Building real-world tech 🔧</h3> 
   
 💡 I love coding systems that matter – from smart parking to AI-based assistants. Currently diving deep into **Backend Development**, **AI**, and cloud DB tools like **Supabase** 
@@ -90,7 +90,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
+---
 ## 🔝 Top Contributed Repos:
 ![](https://github-contributor-stats.vercel.app/api?username=AshwinSelvaraj-19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
