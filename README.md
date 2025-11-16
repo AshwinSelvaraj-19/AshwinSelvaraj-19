@@ -82,18 +82,13 @@
 ## ✨ Fun Facts
 - 🎮 Gamer mind = systems thinker  
 - ☕ I turn caffeine into Supabase queries  
-- 🎨 UI/UX isn’t just design – it's *pixel storytelling *  
+- 🎨 UI/UX isn’t just design – it's * pixel storytelling *  
 - 🤖 Dream product: My own AI agent that helps me code, learn, and debug like  a bro....
   
 ---
 
 ## ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
----
-## 🔝 Top Contributed Repos:
-![](https://github-contributor-stats.vercel.app/api?username=AshwinSelvaraj-19&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
