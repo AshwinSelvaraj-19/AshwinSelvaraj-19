@@ -18,7 +18,7 @@
 
 
 
-### 📊 Contribution Board<img src="https://github.com/user-attachments/assets/c015a489-2eff-4aeb-9ca7-dc10ae836e13" style="width: 250px;">
+### 📊 Contribution Board<img src="https://github.com/user-attachments/assets/c015a489-2eff-4aeb-9ca7-dc10ae836e13" style="width: 20px;">
 
 <img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" />
 
