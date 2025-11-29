@@ -18,8 +18,7 @@
 
 
 
-### 📊Contribution Board      <img src="https://github.com/user-attachments/assets/c015a489-2eff-4aeb-9ca7-dc10ae836e13" style="width: 50px;">
-
+### 📊Contribution Board     
 <img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" />
 
 
@@ -35,9 +34,8 @@
 ## 🏅 Achievements & Certifications
 - 🧠 **NPTEL Certified** – Data Structures using Python  
 - 🎨 **Graphic Designing Certified** – CorelDraw , Canva
-- 💻 **Built 5+ Full-Stack Apps** – Real-world users, real feedback, real impact  
 - 🛠 **Personal Projects:**
-  - NAT Parking – Backend + Supabase CRUD
+  - NAT Parking Assistance– Frontend(HTML,CSS,JS) + Backend + Supabase CRUD
   - Emergency Route Optimizer – Google Maps + Flask
   - Scholarship Finder – AI-powered guidance system
   - Ai chatbot-open source key(OPEN ROUTER) made chatbot with Modern Ui/Ux.
