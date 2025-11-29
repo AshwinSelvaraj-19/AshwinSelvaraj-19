@@ -71,9 +71,8 @@
 ## 📍 2025 Roadmap
 - ⚙️ Master AI/ML (TensorFlow, scikit-learn, LLMs)  
 - 🧠 Build and host a full AI chatbot assistant  
-- 🌍 Deploy a full-stack SaaS product  
-- 📲 Learn DevOps + CI/CD basics  
-- 🎯 Land a backend dev internship
+- 🌍 Deploy a full-stack SaaS product    
+- 🎯 Land a dev internship
 
 ---
 
