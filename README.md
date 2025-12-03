@@ -69,10 +69,10 @@
 ---
 
 ## 📍 2025 Roadmap
-- ⚙️ Master AI/ML (TensorFlow, scikit-learn, LLMs)  
-- 🧠 Build and host a full AI chatbot assistant  
-- 🌍 Deploy a full-stack SaaS product    
-- 🎯 Land a dev internship
+- ⚙️ Master AI/ML (TensorFlow, scikit-learn, LLMs).  
+- 🧠 Build and host a full AI chatbot assistant.  
+- 🌍 Deploy a full-stack SaaS product.    
+- 🎯 Land a dev internship.
 
 ---
 
