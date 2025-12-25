@@ -9,7 +9,7 @@
 📬 Always down to collaborate, learn, and build the future — one line of code at a time. Let's connect!
 
 ---
-
+  
 ## 👨‍💻 Freelance Developer | Passionate about building full-stack & AI-driven solutions
 
 🔭 I’m currently working as a **freelancer** — building websites, web apps, and  Supabase, and more.
