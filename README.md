@@ -12,12 +12,12 @@
 
 ## 👨‍💻 Freelance Developer | Passionate about building full-stack & AI-driven solutions
 
-🔭 I’m currently working as a **freelancer** — building websites, web apps, and automations using Python, Supabase, and more.
+🔭 I’m currently working as a **freelancer** — building websites, web apps, and  Supabase, and more.
 
 📬 DM me on LinkedIn or drop a mail for collabs, freelance gigs, or internships!
 
 
-
+  
 ### 📊Contribution Board     
 <img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" />
 
