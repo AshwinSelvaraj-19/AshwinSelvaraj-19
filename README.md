@@ -68,7 +68,7 @@
 
 ---
 
-## 📍 2025 Roadmap
+## 📍 2026 Roadmap
 - ⚙️ Master AI/ML (TensorFlow, scikit-learn, LLMs).  
 - 🧠 Build and host a full AI chatbot assistant.  
 - 🌍 Deploy a full-stack SaaS product.    
