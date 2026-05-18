@@ -106,7 +106,7 @@ STACK: HTML + CSS + JS + Leaflet
 
 <br><br>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/AshwinSelvaraj-19/ERO">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-C792EA?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
@@ -165,7 +165,7 @@ STACK: HTML + CSS + JS + Supabase
 
 <br>
 
-<a href="YOUR_GITHUB_LINK">
+<a href="https://github.com/AshwinSelvaraj-19/SCHOLARSHIPFINDER">
 <img src="https://img.shields.io/badge/VIEW_PROJECT-C792EA?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
