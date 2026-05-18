@@ -51,17 +51,6 @@ STATUS: COMPLETED
 TYPE: Smart Navigation System
 STACK: HTML + CSS + JS + Leaflet
 ```
----
-
-### 🛠 TECH STACK
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,flask,javascript,mysql,git,github,vscode"/>
-
-</div>
-
----
 
 ### 🔥 CORE FEATURES
 
