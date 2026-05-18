@@ -116,34 +116,6 @@ Smart emergency route optimization platform designed to reduce response time usi
 
 ---
 
-# ⚡ CURRENT MISSION
-
-<div align="center">
-
-```python
-class Developer:
-
-    def __init__(self):
-        self.name = "Ashwin Selvaraj"
-        self.role = "Full-Stack Developer"
-
-    def current_focus(self):
-        return [
-            "Backend Engineering",
-            "AI Integrations",
-            "Scalable Systems",
-            "SaaS Applications",
-            "Modern UI/UX"
-        ]
-
-    def mindset(self):
-        return "Build. Break. Debug. Repeat."
-```
-
-</div>
-
----
-
 # 🏆 ACHIEVEMENTS
 
 <div align="center">
