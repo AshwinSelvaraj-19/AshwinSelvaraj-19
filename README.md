@@ -36,19 +36,21 @@ MODE: ACTIVE
 
 ---
 
-# 🚀 FEATURED PROJECT
+# 🚀 PROJECTS.EXE
 
 <div align="center">
 
-## 🚑 EMERGENCY ROUTE OPTIMIZER
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNxbXk0d2Exb3VzN2lyc3J2MWh6YW5lMWR2d3M3MGRsN25xM3B2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/>
+## 🚑 Emergency Route Optimizer
 
-</div>
-
-### ⚡ DESCRIPTION
-Smart emergency route optimization platform designed to reduce response time using traffic-aware routing logic and mapping APIs.
-
+```yaml
+STATUS: COMPLETED
+TYPE: Smart Navigation System
+STACK: HTML + CSS + JS + Leaflet
+```
 ---
 
 ### 🛠 TECH STACK
