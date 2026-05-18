@@ -1,168 +1,198 @@
-<h1 align="center">⚡ Ashwin Selvaraj ⚡</h1>
-<h3 align="center">Full-Stack Developer • Backend Builder • Problem Solver</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72D&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Backend+Focused+Builder;Supabase+%2B+Python+Developer;Building+Real-World+Systems" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f0f0f,100:00ff88&text=ASHWIN%20SELVARAJ&fontColor=ffffff&fontSize=50&fontAlignY=40&animation=fadeIn"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;Backend+Engineer;Supabase+Architect;Building+Real-World+Systems;Freelancer+%7C+Problem+Solver;Python+%2B+JavaScript+Developer"/>
+
+</div>
 
 ---
 
-# 💫 About Me
+<div align="center">
+
+# ⚡ SYSTEM STATUS ⚡
+
+```yaml
+NAME: Ashwin Selvaraj
+ROLE: Full-Stack Developer
+FOCUS: Backend Systems + Scalable Apps
+STATUS: Building Real-World Tech
+LOCATION: India
+MODE: ACTIVE
+```
+
+</div>
+
+---
+
+# 🧠 WHO AM I?
 
 ```bash
-> Full-stack developer focused on building practical systems.
-> Interested in backend engineering, automation, databases, and scalable web apps.
-> Currently improving skills in AI integration and advanced backend architecture.
-```
-
-💻 I build systems that solve real-world problems instead of tutorial-level clones.
-
-🚀 Main focus:
-- Backend Development
-- Full-Stack Applications
-- Database Systems
-- AI-integrated Web Apps
-- Supabase & SQL Architectures
-
-🛠 I also work on freelance projects including:
-- Final Year Projects
-- Business Websites
-- Management Systems
-- Custom Web Applications
-
----
-
-# ⚔️ Featured Projects
-
-## 🚑 Emergency Route Optimizer
-> Smart route optimization system for emergency response.
-
-### Features
-- Real-time optimized routing
-- Traffic-aware logic
-- Google Maps integration
-- Flask backend architecture
-
-### Stack
-```yaml
-Frontend: HTML, CSS, JavaScript
-Backend: Flask
-API: Google Maps API
-Database: SQL
-```
-
-🔗 Repo:
-```txt
-https://github.com/AshwinSelvaraj-19
+> Passionate about building systems that solve actual problems.
+> Focused on backend development, databases, and scalable architecture.
+> Freelancer building websites, management systems, and custom applications.
+> Currently leveling up in AI integrations and advanced full-stack engineering.
 ```
 
 ---
 
-## 🎓 Scholarship Finder
-> AI-powered platform that helps students discover scholarships efficiently.
+# 🚀 FEATURED PROJECT
 
-### Features
-- Scholarship recommendation logic
-- Smart filtering system
-- User-friendly UI
-- AI-assisted guidance
+<div align="center">
 
-### Stack
-```yaml
-Frontend: HTML, CSS, JavaScript
-Backend: Python
-Database: Supabase
+## 🚑 EMERGENCY ROUTE OPTIMIZER
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXNxbXk0d2Exb3VzN2lyc3J2MWh6YW5lMWR2d3M3MGRsN25xM3B2ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="700"/>
+
+</div>
+
+### ⚡ DESCRIPTION
+Smart emergency route optimization platform designed to reduce response time using traffic-aware routing logic and mapping APIs.
+
+---
+
+### 🛠 TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,flask,javascript,mysql,git,github,vscode"/>
+
+</div>
+
+---
+
+### 🔥 CORE FEATURES
+
+```diff
++ Real-time optimized routing
++ Google Maps API integration
++ Backend traffic logic
++ Smart path calculation
++ Clean responsive interface
++ Database integration
 ```
 
 ---
 
-# 💻 Tech Stack
+# ⚔️ OTHER PROJECTS
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,flask,mysql,postgres,supabase,git,github,vscode" />
+| PROJECT | DESCRIPTION |
+|---|---|
+| 🎓 Scholarship Finder | AI-assisted scholarship discovery platform |
+| 🅿️ Smart Parking System | Vehicle management with Supabase CRUD |
+| 🤖 AI Chatbot | OpenRouter-powered chatbot with modern UI |
 
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&theme=tokyonight&hide_border=true&show_icons=true" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinSelvaraj-19&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&theme=tokyonight&hide_border=true&layout=compact" />
-</p>
+</div>
 
 ---
 
-# 🧠 Current Focus
+# 💻 TECH ARSENAL
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,javascript,java,cpp,flask,supabase,mysql,postgres,git,github,vscode"/>
+
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AshwinSelvaraj-19&theme=matrix&no-frame=true&row=1&column=7"/>
+
+</div>
+
+---
+
+# 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=000000"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinSelvaraj-19&theme=chartreuse-dark&hide_border=true&background=000000"/>
+
+</div>
+
+---
+
+# ⚡ CURRENT MISSION
+
+<div align="center">
 
 ```python
-class AshwinSelvaraj:
+class Developer:
 
     def __init__(self):
+        self.name = "Ashwin Selvaraj"
         self.role = "Full-Stack Developer"
-        self.learning = [
-            "Advanced Backend Systems",
-            "AI Integration",
-            "Scalable Architectures",
-            "Modern SaaS Development"
+
+    def current_focus(self):
+        return [
+            "Backend Engineering",
+            "AI Integrations",
+            "Scalable Systems",
+            "SaaS Applications",
+            "Modern UI/UX"
         ]
 
-    def current_goal(self):
-        return "Build production-level applications that scale."
+    def mindset(self):
+        return "Build. Break. Debug. Repeat."
 ```
 
----
-
-# 🏆 Achievements
-
-- 🧠 NPTEL Certified — Data Structures using Python
-- 🎨 Graphic Designing Certified
-- ⚡ Built multiple backend-integrated systems
-- 🔥 Freelance developer for student & business projects
+</div>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 ACHIEVEMENTS
 
-<p align="center">
+<div align="center">
+
+🏅 NPTEL Certified — Data Structures using Python  
+🎨 Graphic Designing Certified  
+⚡ Built multiple backend-integrated systems  
+🔥 Freelance Developer for student & business projects  
+
+</div>
+
+---
+
+# 🌐 CONNECT
+
+<div align="center">
 
 <a href="https://www.linkedin.com/in/ashwinselvaraj-19-linkdin/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00ff88?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
 <a href="mailto:ashwinselvaraj19@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/GMAIL-00ff88?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
 <a href="https://instagram.com/ashwin_444_">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-00ff88?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
 
 <a href="https://github.com/AshwinSelvaraj-19">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-00ff88?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# ⚡ Developer Mindset
+# 🧬 VISITOR TERMINAL
 
-```txt
-Build.
-Break.
-Debug.
-Optimize.
-Repeat.
-```
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&label=SYSTEM+VISITORS&color=00ff88&style=for-the-badge"/>
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0f0f0f,100:00ff88"/>
+
+</div>
