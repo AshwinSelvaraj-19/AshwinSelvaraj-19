@@ -274,7 +274,7 @@ STACK: HTML + CSS + JS + Supabase
 <img src="https://img.shields.io/badge/GMAIL-C792EA?style=for-the-badge&logo=gmail&logoColor=black"/>
 </a>
 
-<a href="https://instagram.com/ashwin_444_">
+<a href="https://instagram.com/phoenixlive_19">
 <img src="https://img.shields.io/badge/INSTAGRAM-C792EA?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
 
