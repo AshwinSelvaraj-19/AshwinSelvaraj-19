@@ -233,19 +233,22 @@ STACK: HTML + CSS + JS + Supabase
 
 ---
 
+
 # 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&show_icons=true&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&show_icons=true&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&layout=compact&theme=midnight-purple&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&layout=compact&theme=midnight-purple&hide_border=true&cache_seconds=1800"/>
 
 <br>
 
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinSelvaraj-19&theme=midnight-purple&hide_border=true"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=AshwinSelvaraj-19&theme=midnight-purple&hide_border=true"/>
 
 </div>
+```
+
 
 ---
 
