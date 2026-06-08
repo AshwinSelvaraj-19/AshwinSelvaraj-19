@@ -232,7 +232,7 @@ STACK: HTML + CSS + JS + Supabase
 </div>
 
 ---
-
+   
 
 # 📊 GITHUB ANALYTICS
 
