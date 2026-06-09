@@ -8,7 +8,9 @@
   
 📬 Always down to collaborate, learn, and build the future — one line of code at a time. Let's connect!
 
+
 ---
+
   
 ## 👨‍💻 Freelance Developer | Passionate about building full-stack & AI-driven solutions
 
@@ -22,12 +24,16 @@
 ### 📊Contribution Board     
 <img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" />
 
+
 ---
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Uxgh2RNJtD) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/phoenixlive_19) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@phoenixlive_19)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinselvaraj19@gmail.com) 
 
+
 ---
+
 
 ## 🏅 Achievements & Certifications
 - 🧠 **NPTEL Certified** – Data Structures using Python  
@@ -37,7 +43,10 @@
   - Emergency Route Optimizer – Google Maps + Flask
   - Scholarship Finder – AI-powered guidance system
   - Ai chatbot-open source key(OPEN ROUTER) made chatbot with Modern Ui/Ux.
+ 
+    
 ---
+
 
 ## 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
@@ -58,11 +67,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AshwinSelvaraj-19&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
-## 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=AshwinSelvaraj-19&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
