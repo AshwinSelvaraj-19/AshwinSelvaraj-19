@@ -69,21 +69,23 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+## 📍 Current Focus
 
-## 📍 2025 Roadmap
-- ⚙️ Master AI/ML (TensorFlow, scikit-learn, LLMs).  
-- 🧠 Build and host a full AI chatbot assistant.  
-- 🌍 Deploy a full-stack SaaS product.    
-- 🎯 Land a dev internship.
+* 🤖 Building AI-powered applications and intelligent systems
+* 🐍 Strengthening Python, Backend Development, and APIs
+* ☁️ Working with Supabase and modern database technologies
+* 🔐 Exploring Cybersecurity and Threat Detection systems
+* 🚀 Building projects that solve real-world problems
 
 ---
 
 ## ✨ Fun Facts
-- 🎮 Gamer mind = systems thinker  
-- ☕ I turn caffeine into Supabase queries  
-- 🎨 UI/UX isn’t just design – it's * pixel storytelling *  
-- 🤖 Dream product: My own AI agent that helps me code, learn, and debug like  a bro....
-  
+
+* 💡 I enjoy turning ideas into working software
+* 🛠️ Most of my learning comes from building real projects
+* 🤖 Fascinated by AI, automation, and future technologies
+* 🎯 Goal: Become a Software Developer specializing in AI-driven solutions
+
 ---
 
 ## ✍️ Random Dev Quote:
