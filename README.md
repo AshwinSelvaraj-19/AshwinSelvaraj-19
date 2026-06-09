@@ -1,129 +1,94 @@
-<h1 align="center">Hi 👋, I'm Ashwin Selvaraj</h1><h3 align="center">BCA Student • Full-Stack Developer • AI Enthusiast</h3><p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Real-World+Solutions;Future+Software+Engineer" />
-</p>---
-
-🚀 About Me
-
-💡 Passionate about building software that solves real-world problems.
-
-🔭 Currently working on AI-powered applications, automation tools, and full-stack web projects.
-
-🌱 Currently learning:
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- System Design
-
-🎯 Career Goal:
-Become a Software Engineer specializing in AI-powered products and scalable systems.
-
-📫 Reach me at:
-ashwinselvaraj19@gmail.com
+<h1 align="center">Hey 👋, I'm Ashwin Selvaraj</h1>   
+<h3 align="center">🚀 BCA Student | Full-Stack Dev | Building real-world tech 🔧</h3> 
+  
+💡 I love coding systems that matter – from smart parking to AI-based assistants. Currently diving deep into **Backend Development**, **AI**, and cloud DB tools like **Supabase** 
+🔧 I've built projects like **Parking Assistant**, **Scholarship Finder**, and **Emergency Route Optimizer** – all focused on functionality, real use-cases, and clean UI/UX.  
+  
+🎯 Long-term goal? To become a pro **Software Developer**, master **AI/ML**, and launch products that *don’t just trend — they transform*.  
+  
+📬 Always down to collaborate, learn, and build the future — one line of code at a time. Let's connect!
 
 ---
+  
+## 👨‍💻 Freelance Developer | Passionate about building full-stack & AI-driven solutions
 
+🔭 I’m currently working as a **freelancer** — building websites, web apps, and  Supabase, and more.
+
+📬 DM me on LinkedIn or drop a mail for collabs, freelance gigs, or internships!
+
+
+  
 ### 📊Contribution Board     
 <img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" />
 
----
 
-🌐 Connect With Me
-
-""Discord" (https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)" (https://discord.gg/1301039254641709077)
-
-""Instagram" (https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)" (https://instagram.com/ashwin_444_)
-
-""LinkedIn" (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" (https://www.linkedin.com/in/ashwinselvaraj-19-linkdin/)
-
-""X" (https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)" (https://x.com/_Ashwin_19)
-
-""Email" (https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)" (mailto:ashwinselvaraj19@gmail.com)
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/1301039254641709077) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashwin_444_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashwinselvaraj-19-linkdin/)
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@_Ashwin_19) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwinselvaraj19@gmail.com) 
 
 ---
 
-🏆 Certifications
+## 🏅 Achievements & Certifications
+- 🧠 **NPTEL Certified** – Data Structures using Python  
+- 🎨 **Graphic Designing Certified** – CorelDraw , Canva
+- 🛠 **Personal Projects:**
+  - NAT Parking Assistance– Frontend(HTML,CSS,JS) + Backend + Supabase CRUD
+  - Emergency Route Optimizer – Google Maps + Flask
+  - Scholarship Finder – AI-powered guidance system
+  - Ai chatbot-open source key(OPEN ROUTER) made chatbot with Modern Ui/Ux.
+---
 
-- NPTEL – Data Structures Using Python
-- Graphic Designing – CorelDRAW & Canva
+## 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)  
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)  
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)  
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
+  
+---
+
+## 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AshwinSelvaraj-19&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
-⭐ Featured Projects
-
-🚗 NAT Parking Assistance
-
-- Full-stack parking management system
-- Supabase backend integration
-- Vehicle tracking and token management
-
-🎓 AI Scholarship Finder
-
-- AI-powered scholarship recommendation platform
-- Student-focused guidance system
-
-🚨 Emergency Route Optimizer
-
-- Flask-based emergency route planning
-- Maps integration and route optimization
-
-🤖 AI Chatbot
-
-- OpenRouter-powered chatbot
-- Modern UI/UX design
-- Multi-model AI integration
+## 🏆 GitHub Trophies:
+![](https://github-profile-trophy.vercel.app/?username=AshwinSelvaraj-19&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
-🛠 Tech Stack
-
-"Python" (https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-"Java" (https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-"C++" (https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Flask" (https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-"Supabase" (https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
-"MySQL" (https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-"Git" (https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
-"Netlify" (https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify)
+## 📍 2025 Roadmap
+- ⚙️ Master AI/ML (TensorFlow, scikit-learn, LLMs).  
+- 🧠 Build and host a full AI chatbot assistant.  
+- 🌍 Deploy a full-stack SaaS product.    
+- 🎯 Land a dev internship.
 
 ---
 
-📊 GitHub Stats
+## ✨ Fun Facts
+- 🎮 Gamer mind = systems thinker  
+- ☕ I turn caffeine into Supabase queries  
+- 🎨 UI/UX isn’t just design – it's * pixel storytelling *  
+- 🤖 Dream product: My own AI agent that helps me code, learn, and debug like  a bro....
+  
+---
 
-https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&theme=tokyonight&show_icons=true
-
-https://github-readme-streak-stats.herokuapp.com/?user=AshwinSelvaraj-19&theme=tokyonight
-
-https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&layout=compact&theme=tokyonight
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
-🏆 GitHub Trophies
+[![](https://visitcount.itsvg.in/api?id=AshwinSelvaraj-19&icon=1&color=2)](https://visitcount.itsvg.in)
 
-https://github-profile-trophy.vercel.app/?username=AshwinSelvaraj-19&theme=tokyonight
-
----
-
-🎯 2026 Goals
-
-- Master Machine Learning & Deep Learning
-- Build a Production-Ready AI Agent
-- Launch a SaaS Product
-- Contribute to Open Source
-- Secure a Software Development Internship
-
----
-
-✨ Fun Facts
-
-🎮 Gamer mindset = systems thinker
-
-☕ Turning caffeine into code
-
-🤖 Dream project: An AI assistant that can code, learn, and debug alongside me
-
----
-
-https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&label=Profile+Views&color=0e75b6&style=flat
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
