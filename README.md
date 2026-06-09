@@ -88,11 +88,6 @@
 
 ---
 
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&style=flat-square&color=blue" alt="profile views" />
 </p>
