@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Ashwin Selvaraj</h1>   
 <h3 align="center">🚀 BCA Student | Full-Stack Dev | Building real-world tech 🔧</h3> 
   
-💡 I love coding systems that matter – from smart parking to AI-based assistants. Currently diving deep into **Backend Development**, **AI**, and cloud DB tools like **Supabase** 
+💡 Passionate about building real-world solutions using Python, JavaScript, AI, and Supabase.
 🔧 I've built projects like **Parking Assistant**, **Scholarship Finder**, and **Emergency Route Optimizer** – all focused on functionality, real use-cases, and clean UI/UX.  
   
 🎯 Long-term goal? To become a pro **Software Developer**, master **AI/ML**, and launch products that *don’t just trend — they transform*.  
