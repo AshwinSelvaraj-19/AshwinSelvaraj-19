@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:141321,50:1f1c2c,100:928DAB&text=ASHWIN%20SELVARAJ&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=twinkling&desc=FULL-STACK%20DEVELOPER%20%7C%20SYSTEMS%20BUILDER&descAlignY=58&descSize=18"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=C792EA&center=true&vCenter=true&width=950&lines=Full-Stack+Developer;Building+Real-World+Systems;Backend+Engineering+%2B+Automation;JavaScript+%7C+Python+%7C+Supabase;Freelancer+for+Web+Projects;Focused+on+Scalable+Applications"/>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=Ashwin+Selvaraj;Full-Stack+Developer;AI+Enthusiast;Building+Real-World+Solutions;Future+Software+Engineer)](https://git.io/typing-svg)
 <br>
 
 <img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge&colorA=1a1b27&colorB=C792EA"/>
