@@ -7,7 +7,7 @@
 🎯 Long-term goal? To become a pro **Software Developer**, master **AI/ML**, and launch products that *don’t just trend — they transform*.  
   
 📬 Always down to collaborate, learn, and build the future — one line of code at a time. Let's connect!
- 
+    
 
 ---
 
