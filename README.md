@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Ashwin Selvaraj</h1>   
+<h1 align="center">Hey 👋, I'm Ashwin Selvaraj</h1>     
 <h3 align="center">🚀 BCA Student | Full-Stack Dev | Building real-world tech 🔧</h3>  
      
 💡 Passionate about building real-world solutions using Python, JavaScript, AI, and Supabase.
