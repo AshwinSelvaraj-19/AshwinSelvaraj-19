@@ -19,6 +19,7 @@
 <br/>
 
 ## 🧠 About Me
+I specialize in building modern software across web, desktop, and cloud platforms.
 
 * 🛠️ Building reliable software for web, desktop, and cloud platforms
 * 🧠 Exploring **Artificial Intelligence**, **Cybersecurity**, and automation
@@ -29,13 +30,6 @@
 
 <br/>
 
-## 💡 What I Work With
-
-I specialize in building modern software across web, desktop, and cloud platforms. My interests lie in artificial intelligence, automation, cybersecurity, and developer tools, with a focus on delivering clean architecture, performance, and long-term maintainability.
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
----
 
 ## 🚀 Products & Projects
 
@@ -200,11 +194,6 @@ flowchart TD
 
 </div>
 
-### 📅 Contribution Calendar
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwinSelvaraj-19&theme=react-dark&hide_border=true&bg_color=0D1117&color=0099FF&line=00F7FF&point=7B61FF&area=true" />
-</div>
 
 ### 🐍 Contribution Snake
 
