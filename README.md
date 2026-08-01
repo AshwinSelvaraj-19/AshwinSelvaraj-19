@@ -66,7 +66,10 @@ I build modern software with a strong focus on AI, cybersecurity, automation, an
 
 <a href="https://github.com/AshwinSelvaraj-19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://ashwinselvaraj-19.github.io/PORTFOLIO/"><img src="https://img.shields.io/badge/Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-<a href="https://www.linkedin.com/in/ashwin-selvaraj"><img src="https://img.shields.io/badge/LinkedIn-0099FF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
+<a href="https://www.linkedin.com/in/ashwin-selvaraj-46b7913a9/">
+  <img src="https://img.shields.io/badge/LinkedIn-0099FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <a href="https://discord.gg/Uxgh2RNJtD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://instagram.com/phoenixlive_19"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.youtube.com/@Phoenixlive19"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
