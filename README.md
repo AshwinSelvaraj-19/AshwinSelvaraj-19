@@ -79,33 +79,44 @@ I build modern software with a strong focus on AI, cybersecurity, automation, an
 
 ---
 
-## 🧪 Technology Stack
+## ⚙️ Tech Arsenal
 
 <div align="center">
 
-**Languages**
-<br/>
+### 💻 Programming Languages
+
 <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
 
 <br/><br/>
 
-**Frameworks**
-<br/>
-<img src="https://skillicons.dev/icons?i=flask,nodejs" />
+### 🗄️ Databases
 
-<br/><br/>
-
-**Databases**
-<br/>
 <img src="https://skillicons.dev/icons?i=supabase,postgres,mysql" />
 
 <br/><br/>
 
-**Tools & Platforms**
-<br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,railway,netlify,figma" />
+### 🛠️ Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+
+<br/><br/>
+
+### ☁️ Platforms & Environment
+
+<img src="https://skillicons.dev/icons?i=linux,docker,railway,netlify" />
+
+<br/><br/>
+
+### 🎯 Currently Exploring
+
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
+
+<br/><br/>
+
+> **Focused on building AI applications, desktop software, automation tools, cybersecurity projects, and modern web solutions.**
 
 </div>
+
 
 ---
 
