@@ -55,56 +55,6 @@ I specialize in building modern software across web, desktop, and cloud platform
 <img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" /> 
 
 
----
-## 🧰 Services
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%" align="center">
-
-**Development**
-<br/>
-Full Stack Development
-<br/>
-Backend Development
-<br/>
-Python Development
-<br/>
-Desktop Applications
-
-</td>
-<td width="33%" align="center">
-
-**AI & Data**
-<br/>
-AI Integration
-<br/>
-REST API Development
-<br/>
-Database Design
-<br/>
-Supabase Development
-
-</td>
-<td width="33%" align="center">
-
-**Delivery**
-<br/>
-Automation
-<br/>
-UI/UX Development
-<br/>
-Deployment
-<br/>
-Technical Consulting
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -158,10 +108,6 @@ Technical Consulting
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinSelvaraj-19&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7B61FF&currStreakLabel=00F7FF"/>
 
 <br/>
@@ -175,32 +121,25 @@ Technical Consulting
 
 ---
 
-## 💬 Discord Community
+## 🌌 Heaven Society
 
 <div align="center">
 
-**Founder of Heaven Society**
+### 🎮 A chill community for gaming, good vibes, and personal growth.
 
-A developer community built around shared learning and real projects.
+**👑 Founder of Heaven Society**
 
-[![Discord Banner](https://discord.com/api/guilds/Uxgh2RNJtD/widget.png?style=banner2)](https://discord.gg/Uxgh2RNJtD)
+Whether you're here to game, hang out, meet new people, or stay motivated, Heaven Society is a place where everyone is welcome.
+
+🎮 Gaming • 💬 Chill Chats • 🤝 Great People • 🚀 Growth • 🎉 Community Events
+
+### 🚀 Join the Community
+
+**https://discord.gg/Y3HFsQ3m9m**
+
+*"Game. Connect. Grow."*
 
 </div>
-
-Inside Heaven Society, you'll find:
-
-- 👥 **Developer Community** — devs across all skill levels
-- 💻 **Programming Discussions** — architecture, debugging, best practices
-- 🚀 **Project Showcase** — share what you're building and get feedback
-- 🛠 **Coding Support** — get unstuck faster
-- 🌍 **Open Source** — collaborate on public repos
-- 📚 **Learning Together** — resources and study groups
-- 📢 **Server Updates** — announcements and roadmap changes
-- 🎉 **Community Events** — challenges, sessions, and meetups
-
-**[Join Heaven Society →](https://discord.gg/Y3HFsQ3m9m)**
-
----
 
 ## 🤝 Support / Contact
 
