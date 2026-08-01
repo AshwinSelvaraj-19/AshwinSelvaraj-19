@@ -154,35 +154,10 @@ Technical Consulting
 
 ---
 
-## 🏗 Development Architecture
-
-<div align="center">
-
-```mermaid
-flowchart TD
-    A[Frontend] --> B[Backend]
-    B --> C[API Layer]
-    C --> D[(Database)]
-    D --> E[Cloud Services]
-    E --> F[Deployment]
-
-    style A fill:#0F0F1A,stroke:#00F7FF,stroke-width:2px,color:#00F7FF
-    style B fill:#0F0F1A,stroke:#0099FF,stroke-width:2px,color:#0099FF
-    style C fill:#0F0F1A,stroke:#7B61FF,stroke-width:2px,color:#7B61FF
-    style D fill:#0F0F1A,stroke:#00F7FF,stroke-width:2px,color:#00F7FF
-    style E fill:#0F0F1A,stroke:#0099FF,stroke-width:2px,color:#0099FF
-    style F fill:#0F0F1A,stroke:#7B61FF,stroke-width:2px,color:#7B61FF
-```
-
-</div>
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=0099FF&text_color=C9D1D9&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwinSelvaraj-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=C9D1D9"/>
 
 <br/>
@@ -195,7 +170,6 @@ flowchart TD
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AshwinSelvaraj-19&show_icons=true&hide=stars,commits&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0099FF&icon_color=7B61FF&text_color=C9D1D9" height="180em"/>
 
 </div>
 
@@ -224,7 +198,7 @@ Inside Heaven Society, you'll find:
 - 📢 **Server Updates** — announcements and roadmap changes
 - 🎉 **Community Events** — challenges, sessions, and meetups
 
-**[Join Heaven Society →](https://discord.gg/Uxgh2RNJtD)**
+**[Join Heaven Society →](https://discord.gg/Y3HFsQ3m9m)**
 
 ---
 
