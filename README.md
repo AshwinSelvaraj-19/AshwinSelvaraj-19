@@ -199,16 +199,6 @@ flowchart TD
 
 </div>
 
-
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AshwinSelvaraj-19&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</div>
-
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
-
 ---
 
 ## 💬 Discord Community
