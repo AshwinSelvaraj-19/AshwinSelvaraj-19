@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:0099FF,100:00F7FF&height=280&section=header&text=ASHWIN%20SELVARAJ&fontSize=64&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Full-Stack%20Developer&descAlignY=55&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0F1A,50:0099FF,100:00F7FF&height=280&section=header&text=ASHWIN%20SELVARAJ&fontSize=64&fontColor=00F7FF&animation=fadeIn&fontAlignY=38&desc=Product%20Builder%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Cybersecurity%20Explorer&descAlignY=55&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=Building+AI%2C+Security+%26+Productivity+Software;Full+Stack+Developer;Backend+Developer;Python+Developer;AI+Enthusiast;Cybersecurity+Learner;Building+Real-World+Software;Always+Learning+New+Technologies" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=Building+AI%2C+Security+%26+Productivity+Software;Designing+Intelligent+Desktop+Applications;Creating+Developer+Tools+%26+Automation;Engineering+AI-Powered+Solutions;Exploring+Cybersecurity+%26+Threat+Detection;Turning+Ideas+Into+Real+Products;Open+Source+Builder;Always+Building+Something+New" alt="Typing SVG" />
+
 
 <br/>
 
@@ -18,15 +20,12 @@
 
 ## 🧠 About Me
 
-I'm a software developer working across **backend engineering**, **artificial intelligence**, and **automation** — building systems that are reliable under real conditions, not just in a demo environment.
+* 🛠️ Building reliable software for web, desktop, and cloud platforms
+* 🧠 Exploring **Artificial Intelligence**, **Cybersecurity**, and automation
+* ⚡ Passionate about clean architecture and efficient backend systems
+* 🔍 Enjoy solving complex technical challenges through practical development
+* 📚 Constantly learning, experimenting, and building new products
 
-My interests center on:
-
-- **Artificial Intelligence** — integrating AI into practical, everyday tooling
-- **Automation** — removing repetitive work from workflows and infrastructure
-- **Cybersecurity** — understanding systems well enough to know how they break
-- **Problem Solving** — favoring root-cause fixes over patchwork solutions
-- **Scalable Applications** — architecture that holds up as usage grows
 
 <br/>
 
