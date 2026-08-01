@@ -18,15 +18,19 @@
 
 <br/>
 
-## 🧠 About Me
-I specialize in building modern software across web, desktop, and cloud platforms.
+<h2 align="left">🧠 About Me</h2>
 
-* 🛠️ Building reliable software for web, desktop, and cloud platforms
-* 🧠 Exploring **Artificial Intelligence**, **Cybersecurity**, and automation
-* ⚡ Passionate about clean architecture and efficient backend systems
-* 🔍 Enjoy solving complex technical challenges through practical development
-* 📚 Constantly learning, experimenting, and building new products
+<h3>
+I build modern software with a strong focus on AI, cybersecurity, automation, and scalable applications.
+</h3>
 
+<ul>
+  <li>🛠️ Building applications for web, desktop, and cloud platforms</li>
+  <li>🧠 Exploring Artificial Intelligence, Cybersecurity, and Automation</li>
+  <li>⚡ Designing clean, scalable, and efficient software</li>
+  <li>🔍 Solving real-world problems through practical development</li>
+  <li>📚 Continuously learning and building new products</li>
+</ul>
 
 <br/>
 
@@ -38,7 +42,7 @@ I specialize in building modern software across web, desktop, and cloud platform
 | Product                              | Overview                                                                                                                           |       Status      |
 | :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :---------------: |
 | 🛡 **Phoenix Antivirus**             | AI-powered desktop antivirus focused on intelligent threat detection, modern security architecture, and real-time protection.      |    🚧 Active |
-| 🎤 **PhoenixMic**                    | Desktop microphone enhancement software featuring real-time DSP audio effects, preset management, and a secure licensing system.   | ✅ Completed |
+| 🎤 **Heaven Mic**                    | Desktop microphone enhancement software featuring real-time DSP audio effects, preset management, and a secure licensing system.   | ✅ Completed |
 | 🤖 **Discord Voice Manager**         | Automation bot for Discord voice channels with reliable state management and server deployment support.                            |     🚧 Active     |
 | 🚗 **Smart Parking Management**      | Web-based parking management platform built with Supabase, featuring vehicle tracking, token management, and real-time operations. |    ✅ Completed    |
 | 🏥 **Hospital Analytics Dashboard**  | Interactive analytics dashboard for healthcare data visualization, reporting, and operational insights.                            |     🚧 Active     |
@@ -53,8 +57,6 @@ I specialize in building modern software across web, desktop, and cloud platform
 
 ### 📊Contribution Board     
 <img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" /> 
-
-
 
 ---
 
