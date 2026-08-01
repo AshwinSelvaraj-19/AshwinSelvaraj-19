@@ -51,6 +51,11 @@ I specialize in building modern software across web, desktop, and cloud platform
 
 ---
 
+### 📊Contribution Board     
+<img src="https://pacman.abozanona.me?username=AshwinSelvaraj-19" /> 
+
+
+---
 ## 🧰 Services
 
 <div align="center">
@@ -195,13 +200,6 @@ flowchart TD
 </div>
 
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AshwinSelvaraj-19/AshwinSelvaraj-19/output/github-contribution-grid-snake-dark.svg" />
-
-<sub>Requires the <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action configured on this profile repo.</sub>
-</div>
 
 ### 🏆 Trophies
 
@@ -237,19 +235,6 @@ Inside Heaven Society, you'll find:
 - 🎉 **Community Events** — challenges, sessions, and meetups
 
 **[Join Heaven Society →](https://discord.gg/Uxgh2RNJtD)**
-
----
-
-## 🎵 Now Playing
-
-<div align="center">
-
-<!-- Spotify widget placeholder — connect via spotify-github-profile to enable live status -->
-<img src="https://novatorem-tegusan.vercel.app/api/spotify" alt="Spotify Currently Playing" />
-
-<sub>Live Spotify status not currently connected. Set up via <a href="https://github.com/kittinan/spotify-github-profile">spotify-github-profile</a> to enable this widget.</sub>
-
-</div>
 
 ---
 
