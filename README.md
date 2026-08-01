@@ -22,109 +22,37 @@ I'm a software developer working across **backend engineering**, **artificial in
 
 My interests center on:
 
-- **Backend Development** — designing services that stay stable under load and edge cases
 - **Artificial Intelligence** — integrating AI into practical, everyday tooling
 - **Automation** — removing repetitive work from workflows and infrastructure
 - **Cybersecurity** — understanding systems well enough to know how they break
 - **Problem Solving** — favoring root-cause fixes over patchwork solutions
 - **Scalable Applications** — architecture that holds up as usage grows
 
-I care about the details most users never see: race conditions, reconnect logic, clean state transitions — the parts of software that determine whether something *actually* works, or just appears to.
-
 <br/>
 
 ## 💡 What I Work With
 
-I build primarily with **Python**, **JavaScript**, and **Flask**, backed by **Supabase** for data and auth, across both web and desktop targets. My work spans modern web development, automation scripting, AI-integrated applications, and native desktop software — with deployment handled through cloud platforms suited to each project's scale.
-
-I maintain an active interest in **open source**, contribute to and build my own tooling, and prioritize clean, maintainable code over quick fixes. Recent focus areas include AI-assisted applications, DSP-heavy desktop software, and backend systems designed to run unattended for long periods without manual intervention.
+I specialize in building modern software across web, desktop, and cloud platforms. My interests lie in artificial intelligence, automation, cybersecurity, and developer tools, with a focus on delivering clean architecture, performance, and long-term maintainability.
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
 ---
 
-## 🚧 Current Projects
+## 🚀 Products & Projects
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-### 🛡 Phoenix Antivirus
-AI-powered desktop antivirus focused on behavioral threat detection rather than static signatures.
-
-</td>
-<td width="50%">
-
-### 🎤 PhoenixMic
-Real-time microphone enhancement software with a full DSP effects chain and licensing system.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Discord Voice Manager
-Voice channel management bot with state-machine-driven reliability and automated deployment.
-
-</td>
-<td width="50%">
-
-### 🚗 Smart Parking System
-Vehicle and parking management platform built on Supabase with a modern web interface.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏥 Hospital Analytics Dashboard
-Interactive healthcare analytics dashboard with live reporting and data visualization.
-
-</td>
-<td width="50%">
-
-### 🎓 AI Scholarship Finder
-AI-driven platform that matches students to scholarships based on eligibility data.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🚑 Emergency Route Optimizer
-Smart routing system built on modern mapping technologies to reduce response time.
-
-</td>
-<td width="50%">
-
-### ➕ More in Progress
-New projects are actively in development — check back for updates.
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🔥 Phoenix Ecosystem
-
-<div align="center">
-
-| Product | Description |
-|---|---|
-| 🛡 **Phoenix Antivirus** | Modern AI-powered desktop antivirus built around behavioral detection and threat intelligence. |
-| 🎤 **PhoenixMic** | Professional microphone enhancement software with a real-time DSP chain and licensing system. |
-| 🤖 **Discord VC Server Bot** | Advanced Discord voice channel bot with automation, state management, and deployment support. |
-| 🏥 **Hospital Analytics Dashboard** | Healthcare analytics dashboard with interactive reporting and role-based data views. |
-| 🚗 **Smart Parking Management** | Vehicle management platform built on Supabase with a responsive web front end. |
-| 🎓 **AI Scholarship Finder** | AI-powered scholarship matching platform for students. |
-| 🚑 **Emergency Route Optimizer** | Smart routing system for minimizing emergency response times. |
-| 📊 **Business Analytics Dashboard** | Data visualization and reporting platform for operational business metrics. |
-| 🧪 **Future AI Products** | New AI-driven tools currently in research and development. |
+| Product                              | Overview                                                                                                                           |       Status      |
+| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :---------------: |
+| 🛡 **Phoenix Antivirus**             | AI-powered desktop antivirus focused on intelligent threat detection, modern security architecture, and real-time protection.      |    🚧 Active |
+| 🎤 **PhoenixMic**                    | Desktop microphone enhancement software featuring real-time DSP audio effects, preset management, and a secure licensing system.   | ✅ Completed |
+| 🤖 **Discord Voice Manager**         | Automation bot for Discord voice channels with reliable state management and server deployment support.                            |     🚧 Active     |
+| 🚗 **Smart Parking Management**      | Web-based parking management platform built with Supabase, featuring vehicle tracking, token management, and real-time operations. |    ✅ Completed    |
+| 🏥 **Hospital Analytics Dashboard**  | Interactive analytics dashboard for healthcare data visualization, reporting, and operational insights.                            |     🚧 Active     |
+| 🎓 **AI Scholarship Finder**         | AI-assisted platform that helps students discover scholarships based on eligibility and academic information.                      |     🚧 Active     |
+| 🚑 **Emergency Route Optimizer**     | Intelligent route optimization system designed to improve emergency response through efficient path planning.                      |     💡 Concept    |
+| 🛠 **Discord Server Management Bot** | Comprehensive moderation and server management bot with role automation, logging, utility commands, and configurable settings.     | 🚧 In Development |
+| ⚡ **More Coming Soon**               | Continuously building new AI, cybersecurity, automation, productivity, and Discord-based software solutions.                       |     🔄 Ongoing    |
 
 </div>
 
