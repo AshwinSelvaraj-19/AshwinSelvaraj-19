@@ -72,7 +72,7 @@ I build modern software with a strong focus on AI, cybersecurity, automation, an
 </a>
 <a href="https://discord.gg/Y3HFsQ3m9m"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://instagram.com/heavensociety_offl"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/@Phoenixlive19"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.youtube.com/@HeavenSociety-19"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="mailto:ashwinselvaraj19@gmail.com"><img src="https://img.shields.io/badge/Email-7B61FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 </div>
