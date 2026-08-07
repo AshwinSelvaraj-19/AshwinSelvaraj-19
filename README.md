@@ -155,7 +155,6 @@ Whether you're here to game, hang out, meet new people, or stay motivated, Heave
 
 </div>
 
-## 🤝 Support / Contact
 
 ---
 
