@@ -107,9 +107,7 @@ I build modern software with a strong focus on AI, cybersecurity, automation, an
 
 <br/><br/>
 
-### 🎯 Currently Exploring
 
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv" />
 
 <br/><br/>
 
@@ -158,16 +156,6 @@ Whether you're here to game, hang out, meet new people, or stay motivated, Heave
 </div>
 
 ## 🤝 Support / Contact
-
-<div align="center">
-
-Open to collaborating on:
-
-**Freelance Projects** · **Open Source** · **Internships** · **Developer Collaborations** · **Technical Discussions** · **AI Projects** · **Business Enquiries**
-
-<a href="mailto:ashwinselvaraj19@gmail.com"><img src="https://img.shields.io/badge/Get%20In%20Touch-7B61FF?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-</div>
 
 ---
 
