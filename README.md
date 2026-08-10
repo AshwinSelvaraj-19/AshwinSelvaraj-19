@@ -101,7 +101,7 @@ I build modern software with a strong focus on AI, cybersecurity, automation, an
 
 ### ☁️ Platforms & Environment
 
-<img src="https://skillicons.dev/icons?i=docker,railway,netlify" />
+<img src="https://skillicons.dev/icons?i=docker,netlify" />
 
 <br/><br/>
 
