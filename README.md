@@ -8,9 +8,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&label=PROFILE+VIEWS&color=00f7ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&label=PROFILE+VIEWS&color=red&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/AshwinSelvaraj-19?label=FOLLOWERS&style=for-the-badge&color=0099ff)
-![Stars](https://img.shields.io/github/stars/AshwinSelvaraj-19?label=STARS&style=for-the-badge&color=7b61ff)
+![Stars](https://img.shields.io/github/stars/AshwinSelvaraj-19?label=STARS&style=for-the-badge&color=green)
 
 <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%">
 
@@ -160,7 +160,7 @@ Whether you're here to game, hang out, meet new people, or stay motivated, Heave
 
 ### 📈 Visitors & Stats
 
-![Profile Views](https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&label=VISITORS&color=00f7ff&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&label=VISITORS&color=red&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/AshwinSelvaraj-19?label=FOLLOWERS&style=for-the-badge&color=0099ff)
 ![Stars](https://img.shields.io/github/stars/AshwinSelvaraj-19?label=GITHUB+STARS&style=for-the-badge&color=7b61ff)
 
