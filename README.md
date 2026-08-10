@@ -48,10 +48,9 @@
 
 | Product                              | Overview                                                                                                                           |       Status      |
 | :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :---------------: |
+| 🚗 **Smart Parking Management**      | Web-based parking management platform built with Supabase, featuring vehicle tracking, token management, and real-time operations. |    ✅ Completed    |
 | 🛡 **Phoenix Antivirus**             | AI-powered desktop antivirus focused on intelligent threat detection, modern security architecture, and real-time protection.      |    🚧 Active |
 | 🎤 **Heaven Amplifier Mic**                    | Desktop microphone enhancement software featuring real-time DSP audio effects, preset management, and a secure licensing system.   | ✅ Completed |
-| 🤖 **Discord Voice Manager**         | Automation bot for Discord voice channels with reliable state management and server deployment support.                            |     🚧 Active     |
-| 🚗 **Smart Parking Management**      | Web-based parking management platform built with Supabase, featuring vehicle tracking, token management, and real-time operations. |    ✅ Completed    |
 | 🚑 **Emergency Route Optimizer**     | Intelligent route optimization system designed to improve emergency response through efficient path planning.                      |     ✅ Completed    |
 | 🛠 **Discord Server Management Bot** | Comprehensive moderation and server management bot with role automation, logging, utility commands, and configurable settings.     | 🚧 In Development |
 | ⚡ **More Coming Soon**               | Continuously building new AI, cybersecurity, automation, productivity, and Discord-based software solutions.                       |     🔄 Ongoing    |
