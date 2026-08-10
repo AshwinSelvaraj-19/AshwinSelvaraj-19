@@ -139,7 +139,7 @@
 
 ---
 
-## 🌌 Heaven Society
+## 🌌 𝐇𝐄𝟒𝐕𝐄𝐍 𝐒𝐎𝐂𝐈𝐄𝐓𝐘    !
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=550&lines=GAME+%E2%80%A2+CONNECT+%E2%80%A2+GROW;Late-night+games+%26+random+conversations;A+place+to+chill%2C+meet+%26+have+fun" />
