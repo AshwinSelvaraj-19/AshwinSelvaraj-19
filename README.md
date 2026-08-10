@@ -18,7 +18,7 @@
 
 <br/>
 
-## <h2 align="left">🧠 About Me</h2>
+#<h2 align="left">🧠 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 
 <h3 align="center">
   I’m a developer who enjoys turning ideas into real, working software.
@@ -42,7 +42,7 @@
 <br/>
 
 
-## 🚀 Products & Projects
+## 🚀 𝐏𝐫𝐨𝐝𝐮𝐜𝐭𝐬 & 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
 <div align="center">
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 🔗 Connect
+## 🔗 𝐂𝐨𝐧𝐧𝐞𝐜𝐭
 
 <div align="center">
 
