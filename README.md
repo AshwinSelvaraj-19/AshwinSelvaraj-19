@@ -42,12 +42,10 @@ I build modern software with a strong focus on AI, cybersecurity, automation, an
 | Product                              | Overview                                                                                                                           |       Status      |
 | :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :---------------: |
 | 🛡 **Phoenix Antivirus**             | AI-powered desktop antivirus focused on intelligent threat detection, modern security architecture, and real-time protection.      |    🚧 Active |
-| 🎤 **Heaven Mic**                    | Desktop microphone enhancement software featuring real-time DSP audio effects, preset management, and a secure licensing system.   | ✅ Completed |
+| 🎤 **Heaven Amplifier Mic**                    | Desktop microphone enhancement software featuring real-time DSP audio effects, preset management, and a secure licensing system.   | ✅ Completed |
 | 🤖 **Discord Voice Manager**         | Automation bot for Discord voice channels with reliable state management and server deployment support.                            |     🚧 Active     |
 | 🚗 **Smart Parking Management**      | Web-based parking management platform built with Supabase, featuring vehicle tracking, token management, and real-time operations. |    ✅ Completed    |
-| 🏥 **Hospital Analytics Dashboard**  | Interactive analytics dashboard for healthcare data visualization, reporting, and operational insights.                            |     🚧 Active     |
-| 🎓 **AI Scholarship Finder**         | AI-assisted platform that helps students discover scholarships based on eligibility and academic information.                      |     🚧 Active     |
-| 🚑 **Emergency Route Optimizer**     | Intelligent route optimization system designed to improve emergency response through efficient path planning.                      |     💡 Concept    |
+| 🚑 **Emergency Route Optimizer**     | Intelligent route optimization system designed to improve emergency response through efficient path planning.                      |     ✅ Completed    |
 | 🛠 **Discord Server Management Bot** | Comprehensive moderation and server management bot with role automation, logging, utility commands, and configurable settings.     | 🚧 In Development |
 | ⚡ **More Coming Soon**               | Continuously building new AI, cybersecurity, automation, productivity, and Discord-based software solutions.                       |     🔄 Ongoing    |
 
