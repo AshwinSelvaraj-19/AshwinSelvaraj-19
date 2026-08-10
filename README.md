@@ -20,17 +20,24 @@
 
 <h2 align="left">🧠 About Me</h2>
 
-<h3>
-I build modern software with a strong focus on AI, cybersecurity, automation, and scalable applications.
+<h3 align="center">
+  I’m a developer who enjoys turning ideas into real, working software.
 </h3>
 
-<ul>
-  <li>🛠️ Building applications for web, desktop, and cloud platforms</li>
-  <li>🧠 Exploring Artificial Intelligence, Cybersecurity, and Automation</li>
-  <li>⚡ Designing clean, scalable, and efficient software</li>
-  <li>🔍 Solving real-world problems through practical development</li>
-  <li>📚 Continuously learning and building new products</li>
-</ul>
+<p align="center">
+  I build applications across <b>web, desktop, and cloud</b>, while exploring
+  <b>AI, cybersecurity, automation, and backend systems</b>.
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=BUILDING+%E2%80%A2+LEARNING+%E2%80%A2+EXPERIMENTING;TURNING+IDEAS+INTO+PROJECTS;EXPLORING+AI+%26+CYBERSECURITY;BUILDING+SYSTEMS+THAT+SOLVE+REAL+PROBLEMS" />
+</p>
+
+<p align="center">
+  ⚡ Build things I’m curious about &nbsp; • &nbsp;
+  🧠 Learn by experimenting &nbsp; • &nbsp;
+  🔧 Improve through real projects
+</p>
 
 <br/>
 
@@ -135,23 +142,25 @@ I build modern software with a strong focus on AI, cybersecurity, automation, an
 
 ## 🌌 Heaven Society
 
-<div align="center">
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=20&duration=2500&pause=700&color=8B5CF6&center=true&vCenter=true&width=550&lines=GAME+%E2%80%A2+CONNECT+%E2%80%A2+GROW;Late-night+games+%26+random+conversations;A+place+to+chill%2C+meet+%26+have+fun" />
+</p>
 
-### 🎮 A chill community for gaming, good vibes, and personal growth.
+<p align="center">
+  <samp>🎮 GAME&nbsp;&nbsp;•&nbsp;&nbsp;💬 CONNECT&nbsp;&nbsp;•&nbsp;&nbsp;🌌 BELONG</samp>
+</p>
 
-**👑 Founder of Heaven Society**
+<p align="center">
+  <strong>╰┈➤ 𝐅𝐎𝐔𝐍𝐃𝐄𝐑 &nbsp; 𝐎𝐅 &nbsp; 𝐇𝐄𝐀𝐕𝐄𝐍 &nbsp; 𝐒𝐎𝐂𝐈𝐄𝐓𝐘 !</strong>
+</p>
 
-Whether you're here to game, hang out, meet new people, or stay motivated, Heaven Society is a place where everyone is welcome.
+<p align="center">
+  <i>Where good games turn into good memories.</i>
+</p>
 
-🎮 Gaming • 💬 Chill Chats • 🤝 Great People • 🚀 Growth • 🎉 Community Events
-
-### 🚀 Join the Community
-
-**https://discord.gg/Y3HFsQ3m9m**
-
-*"Game. Connect. Grow."*
-
-</div>
+<p align="center">
+  <a href="https://discord.gg/Y3HFsQ3m9m">🌐 Join Heaven Society</a>
+</p>
 
 
 ---
