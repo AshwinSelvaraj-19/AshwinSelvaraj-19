@@ -126,7 +126,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinSelvaraj-19&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=7B61FF&currStreakLabel=00F7FF"/>
+
 
 <br/>
 
