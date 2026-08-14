@@ -18,7 +18,7 @@
 
 <br/>
 
-#<h2 align="left">🧠 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
+<h2 align="left">🧠 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞</h2>
 
 <h3 align="center">
   I’m a developer who enjoys turning ideas into real, working software.
