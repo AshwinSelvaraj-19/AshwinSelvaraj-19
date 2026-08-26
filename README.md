@@ -89,7 +89,7 @@
 
 ### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,javascript,html,css" />
 
 <br/><br/>
 
@@ -107,7 +107,7 @@
 
 ### ☁️ Platforms & Environment
 
-<img src="https://skillicons.dev/icons?i=docker,netlify" />
+<img src="https://skillicons.dev/icons?i=docker,netlify,railway" />
 
 <br/><br/>
 
