@@ -5,7 +5,7 @@
         
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=00F7FF&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=100&lines=Building+AI%2C+Security+%26+Productivity+Software;Designing+Intelligent+Desktop+Applications;Creating+Developer+Tools+%26+Automation;Engineering+AI-Powered+Solutions;Exploring+Cybersecurity+%26+Threat+Detection;Turning+Ideas+Into+Real+Products;Open+Source+Builder;Always+Building+Something+New" alt="Typing SVG" />
 
-
+   
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AshwinSelvaraj-19&label=PROFILE+VIEWS&color=red&style=for-the-badge)
